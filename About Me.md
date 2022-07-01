@@ -1,4 +1,4 @@
-👋 Hi, I'm il798li! 
+👋 Hi, I'm il798li! You can call me __798__ or __illie__ if you want.
 <br>
 👨‍💻 I focus on coding in __Python__.
 <br>
