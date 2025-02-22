@@ -12,7 +12,10 @@ I speak Tamil and English. I am learning Hindi and French.
 # Socials
 ### Discord
 - Username: `il798li`
-- Link: https://discord.com/users/655263219459293210
+- Link: https://www.discord.com/users/655263219459293210
+### YouTube
+- Username: `il798li`
+- Link: https://www.youtube.com/@il798li
 
 # Projects
 ### Mythical Money (Python)
