@@ -10,4 +10,4 @@ Discord: `il798li`
 
 # Projects
 ### Mythical Money (Python)
-> This is an economy app on Discord designed to simulate a Role-Player game.
+- This is an economy app on Discord designed to simulate a Role-Player game.
