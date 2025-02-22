@@ -5,8 +5,14 @@ I focus on coding in __Python__ and __Java__.
 
 Currently, I am studying 11th grade academics.
 
+I live in Washington, USA.
+
+I speak Tamil and English. I am learning Hindi and French.
+
 # Socials
-- Discord: `il798li`
+### Discord
+- Username: `il798li`
+- Link: https://discord.com/users/655263219459293210
 
 # Projects
 ### Mythical Money (Python)
