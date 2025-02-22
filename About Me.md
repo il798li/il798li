@@ -7,3 +7,7 @@ Currently, I am studying 11th grade academics.
 
 # Socials
 Discord: `il798li`
+
+# Projects
+### Mythical Money (Python)
+> This is an economy app on Discord designed to simulate a Role-Player game.
